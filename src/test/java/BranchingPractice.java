@@ -4,5 +4,7 @@ public class BranchingPractice {
         // created new project
         // enabled version control
         // added .gitegnore with .idea , target folder and .iml file
+        // reviewing on new branch
+
     }
 }
